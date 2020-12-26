@@ -1,0 +1,9 @@
+*.o
+GPATH
+GRTAGS
+GSYMS
+GTAGS
+.deps
+*~
+auth_gateway
+gmon.out
